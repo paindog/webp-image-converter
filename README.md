@@ -13,7 +13,7 @@ A simple, user-friendly tool to batch convert WebP images to PNG (preserving tra
 - Cross-platform (Windows, Mac, Linux)
 
 ## Screenshot
-![GUI Screenshot](screenshot.png)
+![GUI Screenshot](screenshot.jpg)
 
 ## Installation
 1. Install Python 3.7+
